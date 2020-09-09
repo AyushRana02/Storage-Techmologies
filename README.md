@@ -1,4 +1,4 @@
-Storage Technologies And Their Devices
+Storage Technologies And Their Devices.
 In todays era, every computing devices have some kind of storage memory that they use for storing informations. There are basically two types of storage, one is static or non-volatile storage and the other is Dynamic or volatile storage as I already discussed about these in the previous blog of RAM. Now lets talk about the storage technologies that we use to store data. There are basically three kinds of storage technologies which are
 Magnetic Storage
 Optical Storage
