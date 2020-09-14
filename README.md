@@ -8,9 +8,9 @@ There are three types of Discs using nowadays: **CD (Compact Disc) which was fir
 
 Similarly, these all types of discs have further two categories, one is ROM (CD-ROM etc.) which are used for permanently storage while the other is RAM (CD RAM etc.) which can be used for temporary storages like the discs used in camcorders.The other main thing in the optical storage is the optical drives like CD drive, DVD drive and BD drive. These are also have different categories which are discussed below
 
-# Read only Drives: which can only read the discs but cannot write
-# Write only Drives: Which can only write the discs but cannot read
-# Read and Write Drives: which can read as well as write the discs.
+**Read only Drives: which can only read the discs but cannot write
+**Write only Drives: Which can only write the discs but cannot read
+**Read and Write Drives: which can read as well as write the discs.
 # 3. Solid State storage
 
 Solid-state storage uses nonvolatile (or flash) memory that can retain data when power is off. This technology has no moving parts. Solid-state storage is more expensive but it is lighter, faster, quieter, and more efficient than the previous ones. Here are the most common forms of solid state storage:
