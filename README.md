@@ -17,7 +17,7 @@ There are three types of Discs using nowadays:
 
 **BD (Blue-Ray Disc): These are used for storing high definition movies and these have larger capacities than both the CD and DVD. These uses the blue color rays laser. 
 
-Similarly, these all types of discs have further two categories, one is [ROM (CD-ROM etc.)] which are used for permanently storage while the other is [RAM (CD RAM etc.)] which can be used for temporary storages like the discs used in camcorders.The other main thing in the optical storage is the optical drives like [CD drive, DVD drive and BD drive.] These are also have different categories which are discussed below
+Similarly, these all types of discs have further two categories, one is [ ROM (CD-ROM etc.) ] which are used for permanently storage while the other is [ RAM (CD RAM etc.) ] which can be used for temporary storages like the discs used in camcorders.The other main thing in the optical storage is the optical drives like [ CD drive, DVD drive and BD drive. ] These are also have different categories which are discussed below
 
 **Read only Drives: which can only read the discs but cannot write
 
