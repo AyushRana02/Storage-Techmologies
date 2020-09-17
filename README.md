@@ -1,8 +1,9 @@
 # Storage Technologies and their Devices.
 In todays era, every computing devices have some kind of storage memory that they use for storing informations. There are basically two types of storage, one is static or non-volatile storage and the other is Dynamic or volatile storage as I already discussed about these in the previous blog of RAM. Now lets talk about the storage technologies that we use to store data. There are basically three kinds of storage technologies which are 
- **Magnetic Storage 
-  **Optical Storage** 
-   **Solid State Storage**
+
+ **Magnetic Storage**
+ **Optical Storage** 
+ **Solid State Storage**
 
 # 1. Magnetic Storage 
 Magnetic storage encodes data in patterns of positive and negative magnetic polarity on some magnetic medium like organic metal. Devices like floppy disks, tape recorder cassettes and Hard disks are all using magnetic storage technology. Inside hard disks, there are round platters which are made of metal oxide material and they rotate around the spindle in a high speed. Similarly they have mechanical part i.e. armature and its head which read/ write the patterns of magnetic polarities on the platters. The patterns are stored in the form of bits through magnetizing the platters in positive and negative polarities. The hard disk drives’ storage capacities ranges from simply Mbs (Mega bytes) to hundreds of TB (Tera-bytes).
